@@ -111,6 +111,6 @@ Semua query menggunakan parameterized query untuk mencegah SQL Injection.
 
 ## 🎥 Video Presentasi
 
-Link: https://youtube.com/your-video-link
+[Link: https://youtube.com/your-video-link](https://youtu.be/S2bBCs7b9lk?si=i_nMMcUhmomCqfM8)
 
 ---
